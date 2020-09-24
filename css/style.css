@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Josefin+Sans:ital,wght@0,500;0,600;1,600;1,700&display=swap');
+
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/card.css");
+
+
+body	{
+	background-color: rgba(230,230,230,0.3);
+	font-family: 'Courier Prime', monospace;
+	font-color: black;
+	text-align: center;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+
+h2	{
+	font-weight: lighter;
+	font-size: 24px;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+}
+
+h4 {
+	color: #1d2d50;
+}
+
+a 	{
+	color: black;
+	text-decoration: none;
+	transition: color 0.3 ease;
+}
+
+a:hover	{
+	color: #2660A4;
+	text-decoration: bolder;
+}
+
+.list-inlign li {
+	list-style: none;
+	display: inline;
+	padding: 0px 12px;
+}
+
+.list-inlign i {
+	font-size: 20px;
+	color: #1d2d50;
+}
+
+.list-inlign i:hover {
+	font-size: 25px;
+	color: rgba(40, 40, 40, 0.4);
+}
+

@@ -1,0 +1,14 @@
+.btn-black {
+	background-color: #1d2d50;
+	color: white;
+	padding: 8px 12px;
+	border-radius: 5px;
+	margin-bottom: 8px;
+	margin-left: 50px;
+}
+
+.btn-black:hover {
+	background-color: rgba(40, 40, 40, 0.4);
+	color: white;
+	padding: 10px 15px;
+}
