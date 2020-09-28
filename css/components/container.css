@@ -17,12 +17,12 @@
 
 @media (max-width: 720px) {
 	.container {
-		width: 600px;
+		width: 580px;
 	}
 }
 
 @media (max-width: 600px) {
 	.container {
-		width: 500px;
+		width: 460px;
 	}
 }
